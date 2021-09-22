@@ -1,0 +1,28 @@
+.heading{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 23px;
+    width:110%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    text-size-adjust:initial;
+    font-weight: 800;
+    font-size: 15px;
+    color:black;
+}
+.copy_right_footer{
+    font-family: 'Grenze Gotisch', cursive;
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
